@@ -1,0 +1,5 @@
+[
+    {   "ip": "10.50.2.118",   "timestamp": "1731615638", "ports": [ {"port": 5985, "proto": "tcp", "status": "open", "reason": "rst-ack", "ttl": 64} ] }
+    ,
+    {   "ip": "10.50.1.43",   "timestamp": "1731615639", "ports": [ {"port": 3306, "proto": "tcp", "status": "closed", "reason": "rst-ack", "ttl": 64} ] }
+    ]
